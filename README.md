@@ -5,4 +5,5 @@ Welcome to the 2D Platformer Game Example! This project is a simple, yet compreh
 
 
 Assets resources : https://pixelfrog-assets.itch.io/pixel-adventure-1 and https://pixelfrog-assets.itch.io/pixel-adventure-2
+
 Learning resouces : https://www.youtube.com/playlist?list=PLgOEwFbvGm5o8hayFB6skAfa8Z-mw4dPV
